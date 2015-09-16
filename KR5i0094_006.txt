@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:59:05.485875
+#+DATE: 2015-08-29 17:59:05.992798
 #+PROPERTY: ID KR5i0094
-#+TITLE:雅宜集 Yayi Ji
+#+TITLE:雅宜集
+#+PROPERTY: pinyin Yayi Ji
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 <pb:CK-EX_KR5i0094_06p001a>¶
@@ -62,4 +63,5 @@
 <pb:CK-EX_KR5i0094_06p003b>¶
 　　五月被火謝熒榜¶
 　　爲龍潭寺僧人圓寂建齋意¶
+¶
 ¶

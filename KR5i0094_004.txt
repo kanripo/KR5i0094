@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:59:05.418759
+#+DATE: 2015-08-29 17:59:05.939194
 #+PROPERTY: ID KR5i0094
-#+TITLE:雅宜集 Yayi Ji
+#+TITLE:雅宜集
+#+PROPERTY: pinyin Yayi Ji
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 <pb:CK-EX_KR5i0094_04p001a>¶
@@ -17,7 +18,6 @@
 　　　　　　　　　　　　　　　　雷本原¶
 <pb:CK-EX_KR5i0094_04p001b>¶
 　　　　　　　　　　　　　嗣教孫劉合臹　記錄¶
-¶
 　　　卷之二機集¶
 　　　表疏類¶
 　　上九日代長生觀羽人慶祝¶
@@ -62,4 +62,11 @@
 <pb:CK-EX_KR5i0094_04p003b>¶
 　　上油供燈疏¶
 ¶
-
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶

@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:59:05.353244
+#+DATE: 2015-08-29 17:59:05.882584
 #+PROPERTY: ID KR5i0094
-#+TITLE:雅宜集 Yayi Ji
+#+TITLE:雅宜集
+#+PROPERTY: pinyin Yayi Ji
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 <pb:CK-EX_KR5i0094_02p002a>¶
@@ -61,4 +62,12 @@
 　　爲武廟水陸道場僉立書記榜¶
 <pb:CK-EX_KR5i0094_02p004b>¶
 　　爲武廟水陸道場僉立經員榜¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
 ¶
